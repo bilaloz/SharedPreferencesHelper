@@ -1,0 +1,9 @@
+{
+  "userName": "bilal",
+  "userLastName":"oz",
+  "userTc": 12345678901,
+  "isStudent": true,
+  "phone": "$[]phone",
+  "adres": "$adres"
+}
+
