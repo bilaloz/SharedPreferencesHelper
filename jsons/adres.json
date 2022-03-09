@@ -1,4 +1,34 @@
 {
-  "adress": "izmir",
-  "code": 35000
+  "data": [
+    {
+      "id": "string",
+      "action": "withdraw",
+      "type": "deposit",
+      "amount": 0,
+      "drinkPurchase": {
+        "id": "518b668e-a58f-4e3e-b92f-170d35e4bac8",
+        "redeemed": true,
+        "redeemedAt": "2022-03-09T15:36:52.736Z",
+        "giftedUserId": "string",
+        "giftStatus": "PENDING",
+        "giftedAt": "2022-03-09T15:36:52.736Z",
+        "items": [
+          {
+            "id": "ae93d4b0-d129-44e3-bbb4-e30250be2dcd",
+            "name": "Blue Havana",
+            "venueId": "b1a7b6e8-0448-4057-9595-e1f1fe6125e3",
+            "price": 1000,
+            "count": 1
+          }
+        ],
+        "barkeeperId": "fb26f477-7f01-4cfb-8dd0-65a472e47d95",
+        "eventId": "0d902e72-e4ba-4f00-b244-6be99d1e9009",
+        "venueId": "f3e064c5-79aa-47af-8c16-520d4ebb1a94",
+        "amount": 1000,
+        "createdAt": "2022-03-09T15:36:52.736Z"
+      },
+      "createdAt": "2022-03-09T15:36:52.736Z",
+      "updatedAt": "2022-03-09T15:36:52.736Z"
+    }
+  ]
 }
