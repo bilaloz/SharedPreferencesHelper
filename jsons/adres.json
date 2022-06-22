@@ -45,37 +45,3 @@
 "poison": "To Animals"
 }
 }
-// 20220622211044
-// https://plantiary.com/test.json
-​
-{
-  "plantId": "4",
-  "name": "Aeschynanthus",
-  "slug": "aeschynanthus",
-  "topic": "gesneriaceae",
-  "image": "https://cdn.plantiary.com/images/plants/aeschynanthus.jpg",
-  "title": {
-    "en": [
-      "Lipstick Plant",
-      "Lipstick Black Pagoda",
-      "Twisted Lipstick",
-      "Curly Lipstick Plant",
-      "Pink Passion Lipstick Plant",
-      "Aeschynanthus"
-    ]
-  },
-  "notes": null,
-  "info": {
-    "en": {
-      "Common Names": "<strong>Common Names:</strong> Lipstick Plant, Lipstick Black Pagoda, Twisted Lipstick, Curly Lipstick Plant, Pink Passion Lipstick Plant, Aeschynanthus\n<strong>Family:</strong> Gesneriaceae",
-      "About": "<img src='https://cdn.plantiary.com/images/plants/abelmoschus-esculentus.jpg' width='200' height='200'><br />Aeschynanthus is a genus of about 150 species of evergreen subtropical and tropical plants in the family Gesneriaceae. They are usually trailing epiphytes with brightly colored flowers that are pollinated by sunbirds. The genus name comes from a contraction of aischuno (to be ashamed) and anthos (flower). The common name for some species is \"lipstick plant\", which comes from the appearance of the developing buds. A full list of the accepted species and their synonyms can be found in the Smithsonian Institution's World Checklist of Gesneriaceae.\n\nThe genus contains a large variety of plants with differing features. Some have thick, waxy cuticles others have much softer leaves. Species such as A. speciosus are large where A. micranthus is much smaller and trailing. Several species are valued in temperate climates as houseplants, notably A. longicaulis, A. pulcher and A. radicans.",
-      "Care Recommendations": "In April: \n+ Water every 8 days. \n+ Fertilize every 15 days. \n+ Mist every 6 days. \n+ Repot every year. \n",
-      "Preferred Location": "Place in a window with dappled sun or a spot in the middle of a room. Or directly in a window facing west or east.",
-      "Fertilizer Selection": "You may use All Purpose Plant Food or Flower Fertilizer for this plant. ",
-      "Watering": "The presence of a dry surface layer of soil does not indicate that the plant requires water. Instead, stick your finger 1-2\" (3-5 cm) deep in the soil to feel dampness or moisture content. If the soil seems dry, it's time to water your greens. If the soil is still moist, however, it is better not to water your plant and instead wait a day or two. Overwatering or waterlogging raises the risk of root rot. So if the soil takes longer than a week to dry, check the light conditions because it's likely that the plant isn't getting enough light. It's fine if the upper layer of soil is dry between waterings, but the deeper soil layer should always have some moisture.",
-      "Fertilizing": "These plant needs regular fertilizing during growing seasons. Fertilizing your plants in dormant state during the winter, might result in scorching or browning of the leaf tips. If mature plants display signs of nutrient insufficiency, fertilizer administration is necessary to restore the plant to its previous state.",
-      "Humidity": "The relative humidity levels between 30 and 50 percent are ideal for these plants. They exhibit unpleasant symptoms when the moisture content in the environment is unfavorable. Avoid letting the air temperature rise too high or low and use a humidifier, whenever possible. Misting is also beneficial, although frequent watering is also necessary. The optimal relative humidity will promote plant growth."
-    }
-  },
-  "location": "INDOOR",
-}
